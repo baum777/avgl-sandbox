@@ -1,0 +1,4 @@
+[
+  {"id":"customer-basic","name":"Ada Example","segment":"default"},
+  {"id":"customer-vip","name":"Lin Example","segment":"vip"}
+]

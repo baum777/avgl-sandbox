@@ -1,0 +1,7 @@
+{
+  "id": "refund-policy-default",
+  "segment": "default",
+  "maxAutoRefundEur": 50,
+  "hardCapabilityLimitEur": 500,
+  "requiresApprovalAboveAutoLimit": true
+}

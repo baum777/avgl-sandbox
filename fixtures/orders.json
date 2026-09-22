@@ -1,0 +1,6 @@
+[
+  {"id":"order-100","customerId":"customer-basic","totalEur":30,"status":"paid"},
+  {"id":"order-101","customerId":"customer-basic","totalEur":79,"status":"paid"},
+  {"id":"order-102","customerId":"customer-vip","totalEur":79,"status":"paid"},
+  {"id":"order-103","customerId":"customer-basic","totalEur":200,"status":"paid"}
+]
