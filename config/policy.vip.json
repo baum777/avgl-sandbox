@@ -1,0 +1,6 @@
+{
+  "id": "refund-policy-vip",
+  "segment": "vip",
+  "extends": "refund-policy-default",
+  "maxAutoRefundEur": 100
+}
