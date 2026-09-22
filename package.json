@@ -1,0 +1,14 @@
+{
+  "name": "avgl-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Small deterministic agent system used to test and explain AVGL visualizations.",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node scripts/demo.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
